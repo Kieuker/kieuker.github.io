@@ -3,7 +3,7 @@ layout: post
 title:  "Initial Post"
 date:   2023-02-06 15:12:00 +0900
 categories: Initial Post
-published: false
+published: true
 tags: [주저리]
 ---
 # Initial Post
