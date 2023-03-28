@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Post"
 date:   2023-02-06 15:12:00 +0900
-categories: Uncategorized
+categories: 
 published: true
 tags: 주저리
 ---
