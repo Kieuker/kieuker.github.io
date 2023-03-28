@@ -2,9 +2,9 @@
 layout: post
 title:  "Initial Post"
 date:   2023-02-06 15:12:00 +0900
-categories: Initial Post
+categories: Uncategorized
 published: true
-tags: [주저리]
+tags: 주저리
 ---
 # Initial Post
 포스트는 이 블로그의 첫 포스트이다.
